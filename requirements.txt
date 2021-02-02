@@ -1,0 +1,2 @@
+dnspython
+geoip2
